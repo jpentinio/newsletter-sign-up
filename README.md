@@ -42,7 +42,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Newsletter sign-up form](https://your-solution-url.com)
+- Solution URL: [Newsletter sign-up form](https://www.frontendmentor.io/solutions/newsletter-signup-form-using-react-tailwindcss-and-daisyui-GOFoX-E-Sk)
 - Live Site URL: [Newsletter sign-up form](https://newsletter-sign-up-mu-eight.vercel.app/)
 
 ## My process
