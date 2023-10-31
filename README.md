@@ -42,8 +42,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Calculator app solution](https://your-solution-url.com)
-- Live Site URL: [Calculator app solution](https://advice-generator-app-six-blond.vercel.app/)
+- Solution URL: [Newsletter sign-up form](https://your-solution-url.com)
+- Live Site URL: [Newsletter sign-up form](https://newsletter-sign-up-mu-eight.vercel.app/)
 
 ## My process
 
